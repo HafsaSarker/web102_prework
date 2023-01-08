@@ -1,23 +1,25 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: Hafsa Sarker
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [Yes] The introduction section explains the background of the company and how many games remain unfunded.
+* [Yes] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [Yes] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [Yes] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [Yes] User can search for a specific game and they will be lead right to the games container
+* [Yes] User can click on 'Game' and it will take them to the game-container div right away
+* [Yes] Updated CSS such as header color, aligining text to center, adding button colors on hover as well as a digaram like icon for stats.
 
 ## Video Walkthrough
 
@@ -34,7 +36,9 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+    While building this app, I encountered challenges such as positioning each element in the header bar. I set justify content to space-between and the website's log was also seperated from the website title. I fixed this issue using flex: 1. 
+
+    Another problem I encountered was with challenge number 7, it took me a little diging deep to complete the challenge using spreader and destructor.
 
 ## License
 

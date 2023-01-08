@@ -102,3 +102,6 @@ const template = `
 `
 
 export default games;
+//backers holds a number referring to the number of unique people who have donated to fund a game
+
+//pledged holds a dollar amount referring to the amount of money backers have donated to the game
