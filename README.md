@@ -17,22 +17,20 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [Yes] User can search for a specific game and they will be lead right to the games container
+* [Yes] User can search for a specific game and they will be lead right to the games container with that specific game shown
 * [Yes] User can click on 'Game' and it will take them to the game-container div right away
-* [Yes] Updated CSS such as header color, aligining text to center, adding button colors on hover as well as a digaram like icon for stats.
+* [Yes] Updated the HTML of the header section by using two divs and a flex: 1 in CSS. This was so that the logo and the website title stay together no matter the size of the screen. And then the navigation reference "Game" and the search input box both take equal space as the screen grows / shrinks. As well as the color of the header section.
+* [Yes] Updated the company background section to align text to center and highlight the section headers.
+* [Yes] Made stats section into combination of divs so that underneath stats, there is a diagram like image to add some visual appeals. 
+* [Yes] updated the games section by adding color to the buttons, as well as hover effect (darker button color on hover). 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./assets/walkthrough.gif" title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LICEcap 
 
 ## Notes
 
