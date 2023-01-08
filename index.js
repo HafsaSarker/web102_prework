@@ -203,6 +203,7 @@ const searchBtn = document.getElementById('search');
 //get usrInp value
 const usrInp = document.getElementById('usrInp');
 
+//onClick 'search', show search results
 searchBtn.addEventListener("click", () => {
     showGame(usrInp.value);
 });
@@ -214,6 +215,7 @@ function showGame(gameName){
         //console.log(game.goal);
         return game.name == gameName;
     });
+    //if no result is found
     if(gamesSearchRes == 0){
         gamesContainer.innerHTML = `<p>No Games Found. Check your spelling or try browsing through our games!</p>`;
     }
