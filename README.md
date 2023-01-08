@@ -1,6 +1,6 @@
 # WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: Hafsa Sarker
+Submitted by: **Hafsa Sarker**
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
